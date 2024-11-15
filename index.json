@@ -1,0 +1,28 @@
+{
+  "mens":[
+    {
+      "id":101,
+      "name":"raju",
+      "age":24
+    
+    },
+    {
+      "id":102,
+      "name":"naresh",
+      "age":22
+    
+    },
+    {
+      "id":103,
+      "name":"rakesh",
+      "age":26
+    
+    },
+    {
+      "id":104,
+      "name":"ram",
+      "age":29
+    
+    }
+  ]
+}
